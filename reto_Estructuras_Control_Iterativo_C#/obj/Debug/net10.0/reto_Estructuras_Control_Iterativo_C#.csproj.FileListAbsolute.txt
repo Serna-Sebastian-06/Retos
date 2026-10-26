@@ -1,0 +1,14 @@
+c:\Users\sebas\OneDrive\Documentos\C#\Estructuras_de_control_iterativo\Retos\reto_Estructuras_Control_Iterativo_C#\bin\Debug\net10.0\reto_Estructuras_Control_Iterativo_C#.exe
+c:\Users\sebas\OneDrive\Documentos\C#\Estructuras_de_control_iterativo\Retos\reto_Estructuras_Control_Iterativo_C#\bin\Debug\net10.0\reto_Estructuras_Control_Iterativo_C#.deps.json
+c:\Users\sebas\OneDrive\Documentos\C#\Estructuras_de_control_iterativo\Retos\reto_Estructuras_Control_Iterativo_C#\bin\Debug\net10.0\reto_Estructuras_Control_Iterativo_C#.runtimeconfig.json
+c:\Users\sebas\OneDrive\Documentos\C#\Estructuras_de_control_iterativo\Retos\reto_Estructuras_Control_Iterativo_C#\bin\Debug\net10.0\reto_Estructuras_Control_Iterativo_C#.dll
+c:\Users\sebas\OneDrive\Documentos\C#\Estructuras_de_control_iterativo\Retos\reto_Estructuras_Control_Iterativo_C#\bin\Debug\net10.0\reto_Estructuras_Control_Iterativo_C#.pdb
+c:\Users\sebas\OneDrive\Documentos\C#\Estructuras_de_control_iterativo\Retos\reto_Estructuras_Control_Iterativo_C#\obj\Debug\net10.0\reto_Estructuras_Control_Iterativo_C#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sebas\OneDrive\Documentos\C#\Estructuras_de_control_iterativo\Retos\reto_Estructuras_Control_Iterativo_C#\obj\Debug\net10.0\reto_Estructuras_Control_Iterativo_C#.AssemblyInfoInputs.cache
+c:\Users\sebas\OneDrive\Documentos\C#\Estructuras_de_control_iterativo\Retos\reto_Estructuras_Control_Iterativo_C#\obj\Debug\net10.0\reto_Estructuras_Control_Iterativo_C#.AssemblyInfo.cs
+c:\Users\sebas\OneDrive\Documentos\C#\Estructuras_de_control_iterativo\Retos\reto_Estructuras_Control_Iterativo_C#\obj\Debug\net10.0\reto_Estructuras_Control_Iterativo_C#.csproj.CoreCompileInputs.cache
+c:\Users\sebas\OneDrive\Documentos\C#\Estructuras_de_control_iterativo\Retos\reto_Estructuras_Control_Iterativo_C#\obj\Debug\net10.0\reto_Estructuras_Control_Iterativo_C#.dll
+c:\Users\sebas\OneDrive\Documentos\C#\Estructuras_de_control_iterativo\Retos\reto_Estructuras_Control_Iterativo_C#\obj\Debug\net10.0\refint\reto_Estructuras_Control_Iterativo_C#.dll
+c:\Users\sebas\OneDrive\Documentos\C#\Estructuras_de_control_iterativo\Retos\reto_Estructuras_Control_Iterativo_C#\obj\Debug\net10.0\reto_Estructuras_Control_Iterativo_C#.pdb
+c:\Users\sebas\OneDrive\Documentos\C#\Estructuras_de_control_iterativo\Retos\reto_Estructuras_Control_Iterativo_C#\obj\Debug\net10.0\reto_Estructuras_Control_Iterativo_C#.genruntimeconfig.cache
+c:\Users\sebas\OneDrive\Documentos\C#\Estructuras_de_control_iterativo\Retos\reto_Estructuras_Control_Iterativo_C#\obj\Debug\net10.0\ref\reto_Estructuras_Control_Iterativo_C#.dll
